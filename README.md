@@ -56,8 +56,8 @@ This project is a Dictionary application created as a semester project for the D
 
 ## Screenshots
 
-- ![Login Form](../images/login.png)
-- ![Home Page](../images/home.png)
+- ![Login Form](images/login.png)
+- ![Home Page](images/home.png)
 
 ## Contributing
 
