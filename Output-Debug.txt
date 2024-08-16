@@ -1,0 +1,89 @@
+﻿'Project2.exe' (Win32): Loaded 'C:\Users\Hamza Akthar\source\repos\Project2\Debug\Project2.exe'. Symbols loaded.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mscoree.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+The thread 0x3618 has exited with code 0 (0x0).
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase_clr0400.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140_clr0400.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\combase.dll'
+'Project2.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\513c750059af8bd28ff8bd9fcb9e2316\mscorlib.ni.dll'. 
+'Project2.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'Project2.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\Hamza Akthar\source\repos\Project2\Debug\Project2.exe'. Symbols loaded.
+'Project2.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System\7eff558bb25b205bc169e86e89032f9d\System.ni.dll'. 
+'Project2.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Project2.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\92a5f262fd47cb1b5986d10e6370cc07\System.Drawing.ni.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\7982552a8181c173ef6677fe276c7d31\System.Windows.Forms.ni.dll'. 
+'Project2.exe' (CLR v4.0.30319: Project2.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Project2.exe' (CLR v4.0.30319: Project2.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Project2.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\9e1cc73b80e7010209000d3280b036dc\System.Core.ni.dll'. 
+'Project2.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\be87489cac5451cabd659f6be936f1db\System.Configuration.ni.dll'. 
+'Project2.exe' (CLR v4.0.30319: Project2.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Project2.exe' (CLR v4.0.30319: Project2.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Project2.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\8c6675e2ff4bb46151e9d8752fbedb3a\System.Xml.ni.dll'. 
+'Project2.exe' (CLR v4.0.30319: Project2.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wldp.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptsp.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rsaenh.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\comctl32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1348_none_d94f9953e1060d01\GdiPlus.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DWrite.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WindowsCodecs.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextShaping.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IconCodecService.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\WinTypes.dll'
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'Project2.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\WinTypes.dll'
+The thread 0x1a98 has exited with code 0 (0x0).
+The thread 0x2db8 has exited with code 0 (0x0).
+The thread 0x1f7c has exited with code 0 (0x0).
+The thread 0x1850 has exited with code 0 (0x0).
+The thread 0x2b6c has exited with code 0 (0x0).
+The thread 0x4138 has exited with code 0 (0x0).
+The thread 0x4198 has exited with code 0 (0x0).
+The thread 0x3c18 has exited with code 0 (0x0).
+The thread 0x21a4 has exited with code 0 (0x0).
+The thread 0x2158 has exited with code 0 (0x0).
+The program '[14044] Project2.exe' has exited with code 0 (0x0).
